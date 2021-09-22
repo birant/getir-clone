@@ -1,11 +1,16 @@
-# Getir.com React + Tailwind Front-end
+# getir.com Main Page
 
-![](https://1.bp.blogspot.com/-RY9Fbe_Gjpo/YSiUBkTtTQI/AAAAAAAAOTM/v1tK1cMMsYMqPkyr1nOpy_iDUu1doIiBwCLcBGAsYHQ/s1206/Ekran%2BResmi%2B2021-08-27%2B10.27.27.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Bir gece uğraşı olarak getir.com'un anasayfasını `react` ve `tailwind` ile hazırladım.
+## The Description Of The Project:
 
-Daha geliştirilebilir, belki youtube'da bunu birlikte tekrar tüm sayfalarıyla kodlar bir örnek çıkartmaya çalışırız, takipte kalmanız dileğiyle :)
+In this project, I tried to make the home page of the getir.com shopping site operating in Turkey using Tailwindccs and React.
 
-## Demo
+## Projennin İçeriği:
 
-[https://getir-react-tailwind.netlify.app/](https://getir-react-tailwind.netlify.app/)
+Bu projede Türkiye'de faaliyet gösteren getir.com alışveriş sitenin ana sayfasını Tailwindcss ve React kullanarak yapmaya çalıştım.
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
